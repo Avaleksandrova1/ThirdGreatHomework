@@ -1,0 +1,11 @@
+{
+ "CardLoaderFile": "C:\\Users\\Nastya\\kpoGreatHomeworks\\homework_3\\src\\main\\java\\org\\example\\files\\dish_cards.txt",
+ "CookerLoaderFile": "C:\\Users\\Nastya\\kpoGreatHomeworks\\homework_3\\src\\main\\java\\org\\example\\files\\cookers.txt",
+ "EquipmentLoaderFile": "C:\\Users\\Nastya\\kpoGreatHomeworks\\homework_3\\src\\main\\java\\org\\example\\files\\equipment.txt",
+ "EquipmentTypeLoaderFile": "C:\\Users\\Nastya\\kpoGreatHomeworks\\homework_3\\src\\main\\java\\org\\example\\files\\equipment_type.txt",
+ "MenuDishLoaderFile": "C:\\Users\\Nastya\\kpoGreatHomeworks\\homework_3\\src\\main\\java\\org\\example\\files\\menu_dishes.txt",
+ "OperationTypeLoaderFile": "C:\\Users\\Nastya\\kpoGreatHomeworks\\homework_3\\src\\main\\java\\org\\example\\files\\operation_types.txt",
+ "ProductLoaderFile": "C:\\Users\\Nastya\\kpoGreatHomeworks\\homework_3\\src\\main\\java\\org\\example\\files\\products.txt",
+ "ProductTypeLoaderFile": "C:\\Users\\Nastya\\kpoGreatHomeworks\\homework_3\\src\\main\\java\\org\\example\\files\\product_types.txt",
+ "VisitorLoaderFile": "C:\\Users\\Nastya\\kpoGreatHomeworks\\homework_3\\src\\main\\java\\org\\example\\files\\visitors_orders.txt"
+}
